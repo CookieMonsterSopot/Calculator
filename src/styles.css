@@ -9,8 +9,8 @@ body {
 .calculator {
   padding: 10px;
   border-radius: 1em;
-  height: 380px;
-  width: 400px;
+  height: 320px;
+  width: 350px;
   margin: 10px auto;
   background-color: #414143;
   box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
@@ -19,7 +19,7 @@ body {
   padding: 10px;
   border-radius: 1em;
   height: auto;
-  width: 400px;
+  width: 350px;
   margin: 10px auto;
   background-color: #414143;
   box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
